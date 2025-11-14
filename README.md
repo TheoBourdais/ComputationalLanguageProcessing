@@ -26,7 +26,7 @@ This repository contains the complete experimental setup, datasets, and results 
 
 ## Overview
 
-This research introduces Computational Language Processing (CLP), a novel approach to solving optimization problems by treating algorithms as sequences of actions that can be learned and generated through language modeling techniques. We evaluate CLP's performance on the Quadratic Assignment Problem (QAP), comparing it against established optimization methods.
+This research introduces Computational Language Processing (CLP), a novel approach to algorithm generation by treating algorithms as sequences of actions that can be learned and generated through reinforcement learning. We evaluate CLP's performance on the Quadratic Assignment Problem (QAP), comparing it against established optimization methods.
 
 ## Repository Structure
 
@@ -66,9 +66,10 @@ ComputationalLanguageProcessing/
 
 ### Benchmark Dataset
 
-- **QAPLIB**: Standard benchmark library for QAP instances
-- Includes classic problems: bur26*, chr12-25*, els19, etc.
-- Real-world and synthetic instances with known optimal solutions or best-known solutions.
+- **QAPLIB** ([Burkard et al., 1997](https://coral.ise.lehigh.edu/data-sets/qaplib/))
+  - Standard benchmark library for QAP instances
+  - Includes classic problems: bur26*, chr12-25*, els19, etc.
+  - Real-world and synthetic instances with known optimal solutions or best-known solutions.
 
 ## Algorithms Compared
 
