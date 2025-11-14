@@ -2,7 +2,7 @@
 
 Official repository for the paper: **[Discovering Algorithms with Computational Language Processing](https://arxiv.org/abs/2507.03190)**
 
-This repository contains the complete experimental setup, datasets, and results for evaluating Computational Language Processing (CLP) against traditional optimization algorithms on the Quadratic Assignment Problem (QAP).
+This repository contains the  datasets and results for evaluating Computational Language Processing (CLP) against traditional optimization algorithms on the Quadratic Assignment Problem (QAP).
 
 ## Table of Contents
 
