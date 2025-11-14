@@ -47,7 +47,7 @@ ComputationalLanguageProcessing/
 ├── images/                       # Generated plots and figures
 │   └── Omni_results.png         # Algorithm performance comparison
 ├── plot_results_CQAP_PQAP.py    # Plotting script for synthetic datasets
-└── plot_results_QAPLIB.py       # Plotting script for QAPLIB results
+└── process_results_QAPLIB.py       # Plotting script for QAPLIB results
 ```
 
 ## Datasets
@@ -116,7 +116,7 @@ pip install pandas matplotlib numpy
 python plot_results_CQAP_PQAP.py
 
 # Plot QAPLIB benchmark results  
-python plot_results_QAPLIB.py
+python process_results_QAPLIB.py
 ```
 
 ### Problem Generators
