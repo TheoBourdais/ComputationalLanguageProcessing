@@ -13,6 +13,7 @@ authors:
     given-names: Tuhin
 repository-code: https://github.com/theobourdais/ComputationalLanguageProcessing
 url: https://arxiv.org/abs/2507.03190
+doi: 10.5281/zenodo.17945389
 preferred-citation:
   type: article
   title: "Discovering Algorithms with Computational Language Processing"
