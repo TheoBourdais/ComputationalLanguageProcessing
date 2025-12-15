@@ -1,5 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this code or data, please cite the accompanying paper."
+type: software
 title: "Discovering Algorithms with Computational Language Processing"
 authors:
   - family-names: Bourdais
@@ -10,4 +11,20 @@ authors:
     given-names: Houman
   - family-names: Sahai
     given-names: Tuhin
+repository-code: https://github.com/theobourdais/ComputationalLanguageProcessing
 url: https://arxiv.org/abs/2507.03190
+preferred-citation:
+  type: article
+  title: "Discovering Algorithms with Computational Language Processing"
+  authors:
+    - family-names: Bourdais
+      given-names: Theo
+    - family-names: Gnanasekaran
+      given-names: Abeynaya
+    - family-names: Owhadi
+      given-names: Houman
+    - family-names: Sahai
+      given-names: Tuhin
+  doi: 10.48550/arXiv.2507.03190
+  url: https://arxiv.org/abs/2507.03190
+  year: 2025
