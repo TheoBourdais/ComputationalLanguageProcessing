@@ -23,6 +23,7 @@ This repository contains the  datasets and results for evaluating Computational 
     - [Generate Plots](#generate-plots)
     - [Problem Generators](#problem-generators)
   - [Citation](#citation)
+  - [Copyright](#copyright)
 
 ## Overview
 
@@ -140,3 +141,7 @@ If you use this code or data in your research, please cite:
   year={2025}
 }
 ```
+
+## Copyright
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
